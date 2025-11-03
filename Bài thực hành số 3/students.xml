@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="SV001">
+        <name>Nguyễn Văn A</name>
+        <dob>2003-02-15</dob>
+        <gender>Nam</gender>
+        <class>KTPM2021</class>
+        <subjects>
+            <subject>
+                <subjectName>Cơ sở dữ liệu</subjectName>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subjectName>Lập trình Web</subjectName>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <subjectName>Toán rời rạc</subjectName>
+                <score>7.8</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student id="SV002">
+        <name>Trần Thị B</name>
+        <dob>2003-07-22</dob>
+        <gender>Nữ</gender>
+        <class>KTPM2021</class>
+        <subjects>
+            <subject>
+                <subjectName>Cấu trúc dữ liệu và giải thuật</subjectName>
+                <score>9.2</score>
+            </subject>
+            <subject>
+                <subjectName>Hệ điều hành</subjectName>
+                <score>8.7</score>
+            </subject>
+            <subject>
+                <subjectName>Lập trình hướng đối tượng</subjectName>
+                <score>8.9</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student id="SV003">
+        <name>Lê Văn C</name>
+        <dob>2002-11-10</dob>
+        <gender>Nam</gender>
+        <class>KTPM2020</class>
+        <subjects>
+            <subject>
+                <subjectName>Cơ sở dữ liệu</subjectName>
+                <score>7.5</score>
+            </subject>
+            <subject>
+                <subjectName>An toàn thông tin</subjectName>
+                <score>8.0</score>
+            </subject>
+            <subject>
+                <subjectName>Phân tích thiết kế hệ thống</subjectName>
+                <score>8.4</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student id="SV004">
+        <name>Phạm Thị D</name>
+        <dob>2003-03-05</dob>
+        <gender>Nữ</gender>
+        <class>HTTT2021</class>
+        <subjects>
+            <subject>
+                <subjectName>Phân tích dữ liệu</subjectName>
+                <score>9.4</score>
+            </subject>
+            <subject>
+                <subjectName>Thống kê ứng dụng</subjectName>
+                <score>8.6</score>
+            </subject>
+            <subject>
+                <subjectName>Trí tuệ nhân tạo</subjectName>
+                <score>9.1</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student id="SV005">
+        <name>Đỗ Văn E</name>
+        <dob>2002-09-30</dob>
+        <gender>Nam</gender>
+        <class>HTTT2020</class>
+        <subjects>
+            <subject>
+                <subjectName>Phân tích thiết kế hệ thống</subjectName>
+                <score>7.2</score>
+            </subject>
+            <subject>
+                <subjectName>Hệ quản trị cơ sở dữ liệu</subjectName>
+                <score>8.0</score>
+            </subject>
+            <subject>
+                <subjectName>Quản lý dự án phần mềm</subjectName>
+                <score>7.9</score>
+            </subject>
+        </subjects>
+    </student>
+</students>

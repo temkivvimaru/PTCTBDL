@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": "SV001",
+      "name": "Nguyễn Văn A",
+      "dob": "2003-02-15",
+      "gender": "Nam",
+      "class": "KTPM2021",
+      "subjects": [
+        { "subjectName": "Cơ sở dữ liệu", "score": 8.5 },
+        { "subjectName": "Lập trình Web", "score": 9.0 },
+        { "subjectName": "Toán rời rạc", "score": 6.4 }
+      ]
+    },
+    {
+      "id": "SV002",
+      "name": "Trần Thị B",
+      "dob": "2003-07-22",
+      "gender": "Nữ",
+      "class": "KTPM2021",
+      "subjects": [
+        { "subjectName": "Cấu trúc dữ liệu và giải thuật", "score": 9.2 },
+        { "subjectName": "Hệ điều hành", "score": 7.3 },
+        { "subjectName": "Lập trình hướng đối tượng", "score": 8.9 }
+      ]
+    },
+    {
+      "id": "SV003",
+      "name": "Lê Văn C",
+      "dob": "2002-11-10",
+      "gender": "Nam",
+      "class": "KTPM2020",
+      "subjects": [
+        { "subjectName": "Mạng máy tính", "score": 5.8 },
+        { "subjectName": "An toàn thông tin", "score": 8.0 },
+        { "subjectName": "Phân tích thiết kế hệ thống", "score": 7.4 }
+      ]
+    },
+    {
+      "id": "SV004",
+      "name": "Phạm Thị D",
+      "dob": "2003-03-05",
+      "gender": "Nữ",
+      "class": "HTTT2021",
+      "subjects": [
+        { "subjectName": "Phân tích dữ liệu", "score": 9.4 },
+        { "subjectName": "Thống kê ứng dụng", "score": 6.2 },
+        { "subjectName": "Trí tuệ nhân tạo", "score": 8.5 }
+      ]
+    },
+    {
+      "id": "SV005",
+      "name": "Đỗ Văn E",
+      "dob": "2002-09-30",
+      "gender": "Nam",
+      "class": "HTTT2020",
+      "subjects": [
+        { "subjectName": "Phân tích thiết kế hệ thống", "score": 7.2 },
+        { "subjectName": "Hệ quản trị cơ sở dữ liệu", "score": 5.9 },
+        { "subjectName": "Quản lý dự án phần mềm", "score": 8.1 }
+      ]
+    },
+    {
+      "id": "SV006",
+      "name": "Ngô Thị F",
+      "dob": "2003-05-12",
+      "gender": "Nữ",
+      "class": "KTPM2022",
+      "subjects": [
+        { "subjectName": "Nhập môn lập trình", "score": 9.5 },
+        { "subjectName": "Nguyên lý hệ điều hành", "score": 7.3 },
+        { "subjectName": "Toán cao cấp", "score": 8.8 }
+      ]
+    },
+    {
+      "id": "SV007",
+      "name": "Vũ Văn G",
+      "dob": "2002-12-09",
+      "gender": "Nam",
+      "class": "KTPM2020",
+      "subjects": [
+        { "subjectName": "Lập trình Java", "score": 6.8 },
+        { "subjectName": "Cấu trúc dữ liệu", "score": 8.1 },
+        { "subjectName": "Công nghệ phần mềm", "score": 9.0 }
+      ]
+    },
+    {
+      "id": "SV008",
+      "name": "Hoàng Thị H",
+      "dob": "2003-08-18",
+      "gender": "Nữ",
+      "class": "HTTT2021",
+      "subjects": [
+        { "subjectName": "Phân tích dữ liệu", "score": 8.7 },
+        { "subjectName": "Khai phá dữ liệu", "score": 9.2 },
+        { "subjectName": "Học máy", "score": 7.6 }
+      ]
+    },
+    {
+      "id": "SV009",
+      "name": "Nguyễn Văn I",
+      "dob": "2001-04-25",
+      "gender": "Nam",
+      "class": "KHMT2019",
+      "subjects": [
+        { "subjectName": "Thị giác máy tính", "score": 8.9 },
+        { "subjectName": "Xử lý ảnh số", "score": 5.7 },
+        { "subjectName": "Học sâu", "score": 9.1 }
+      ]
+    },
+    {
+      "id": "SV010",
+      "name": "Phan Thị K",
+      "dob": "2004-01-11",
+      "gender": "Nữ",
+      "class": "KTPM2022",
+      "subjects": [
+        { "subjectName": "Lập trình Python", "score": 9.8 },
+        { "subjectName": "Cơ sở dữ liệu", "score": 8.4 },
+        { "subjectName": "Phát triển ứng dụng di động", "score": 6.3 }
+      ]
+    }
+  ]
+}

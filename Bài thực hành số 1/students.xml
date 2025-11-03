@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="SV001">
+        <name>Nguyễn Văn A</name>
+        <dob>2003-02-15</dob>
+        <gender>Nam</gender>
+        <class>KTPM2021<class> 
+        <subjects>
+            <subject>
+                <subjectName>Cơ sở dữ liệu</subjectName>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subjectName>Lập trình Web</subjectName>
+                <score>9.0
+            </subject> 
+        </subjects>
+    </student>
+
+    <student>
+        <name>Trần Thị B</name>
+        <dob>2003/03/20</dob>
+        <gender>Nu</gender>
+        <class>KTPM2021</class>
+        <subjects>
+            <subject>
+                <subjectName>Cấu trúc dữ liệu</subjectName>
+                <score>11</score> 
+            </subject>
+        </subjects>
+</students>
