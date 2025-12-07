@@ -1,122 +1,120 @@
-{
-  "students": [
-    {
-      "id": "SV001",
-      "name": "Nguyễn Văn A",
-      "dob": "2003-02-15",
-      "gender": "Nam",
-      "class": "KTPM2021",
-      "subjects": [
-        { "subjectName": "Cơ sở dữ liệu", "score": 8.5 },
-        { "subjectName": "Lập trình C", "score": 7.2 },
-        { "subjectName": "Toán cao cấp", "score": 9.1 }
-      ]
-    },
-    {
-      "id": "SV002",
-      "name": "Trần Thị B",
-      "dob": "2003-09-23",
-      "gender": "Nữ",
-      "class": "CNTT2021",
-      "subjects": [
-        { "subjectName": "Học máy", "score": 5.8 },
-        { "subjectName": "Toán cao cấp", "score": 6.3 }
-      ]
-    },
-    {
-      "id": "SV003",
-      "name": "Lê Văn C",
-      "dob": "2002-12-10",
-      "gender": "Nam",
-      "class": "HTTT2020",
-      "subjects": [
-        { "subjectName": "Thị giác máy tính", "score": 9.6 },
-        { "subjectName": "Học máy", "score": 9.2 },
-        { "subjectName": "Lập trình C", "score": 8.8 },
-        { "subjectName": "Cơ sở dữ liệu", "score": 7.5 }
-      ]
-    },
-    {
-      "id": "SV004",
-      "name": "Phạm Thị D",
-      "dob": "2004-03-07",
-      "gender": "Nữ",
-      "class": "KTPM2022",
-      "subjects": [
-        { "subjectName": "Cơ sở dữ liệu", "score": 4.7 },
-        { "subjectName": "Lập trình C", "score": 5.1 }
-      ]
-    },
-    {
-      "id": "SV005",
-      "name": "Đỗ Minh E",
-      "dob": "2003-07-21",
-      "gender": "Nam",
-      "class": "CNTT2021",
-      "subjects": [
-        { "subjectName": "Thị giác máy tính", "score": 8.9 },
-        { "subjectName": "Học máy", "score": 9.3 },
-        { "subjectName": "Toán cao cấp", "score": 8.4 }
-      ]
-    },
-    {
-      "id": "SV006",
-      "name": "Ngô Thanh F",
-      "dob": "2002-11-12",
-      "gender": "Nữ",
-      "class": "HTTT2020",
-      "subjects": [
-        { "subjectName": "Lập trình C", "score": 5.6 },
-        { "subjectName": "Toán cao cấp", "score": 4.9 }
-      ]
-    },
-    {
-      "id": "SV007",
-      "name": "Vũ Đức G",
-      "dob": "2003-04-05",
-      "gender": "Nam",
-      "class": "KTPM2021",
-      "subjects": [
-        { "subjectName": "Cơ sở dữ liệu", "score": 9.7 },
-        { "subjectName": "Thị giác máy tính", "score": 9.2 },
-        { "subjectName": "Học máy", "score": 8.9 },
-        { "subjectName": "Toán cao cấp", "score": 8.5 },
-        { "subjectName": "Lập trình C", "score": 9.0 }
-      ]
-    },
-    {
-      "id": "SV008",
-      "name": "Phan Ngọc H",
-      "dob": "2004-02-22",
-      "gender": "Nữ",
-      "class": "CNTT2022",
-      "subjects": [
-        { "subjectName": "Cơ sở dữ liệu", "score": 6.1 },
-        { "subjectName": "Thị giác máy tính", "score": 5.3 }
-      ]
-    },
-    {
-      "id": "SV009",
-      "name": "Hoàng Văn I",
-      "dob": "2002-10-09",
-      "gender": "Nam",
-      "class": "HTTT2020",
-      "subjects": [
-        { "subjectName": "Học máy", "score": 4.8 },
-        { "subjectName": "Toán cao cấp", "score": 5.0 }
-      ]
-    },
-    {
-      "id": "SV010",
-      "name": "Bùi Thị J",
-      "dob": "2003-05-28",
-      "gender": "Nữ",
-      "class": "KTPM2021",
-      "subjects": [
-        { "subjectName": "Cơ sở dữ liệu", "score": 7.8 },
-        { "subjectName": "Thị giác máy tính", "score": 8.1 },
-        { "subjectName": "Học máy", "score": 7.5 }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "SV001",
+    "name": "Nguyễn Văn A",
+    "dob": "2003-02-15",
+    "gender": "Nam",
+    "class": "KTPM2021",
+    "subjects": [
+      { "subjectName": "Cơ sở dữ liệu", "score": 8.5 },
+      { "subjectName": "Lập trình C", "score": 7.2 },
+      { "subjectName": "Toán cao cấp", "score": 9.1 }
+    ]
+  },
+  {
+    "id": "SV002",
+    "name": "Trần Thị B",
+    "dob": "2003-09-23",
+    "gender": "Nữ",
+    "class": "CNTT2021",
+    "subjects": [
+      { "subjectName": "Học máy", "score": 5.8 },
+      { "subjectName": "Toán cao cấp", "score": 6.3 }
+    ]
+  },
+  {
+    "id": "SV003",
+    "name": "Lê Văn C",
+    "dob": "2002-12-10",
+    "gender": "Nam",
+    "class": "HTTT2020",
+    "subjects": [
+      { "subjectName": "Thị giác máy tính", "score": 9.6 },
+      { "subjectName": "Học máy", "score": 9.2 },
+      { "subjectName": "Lập trình C", "score": 8.8 },
+      { "subjectName": "Cơ sở dữ liệu", "score": 7.5 }
+    ]
+  },
+  {
+    "id": "SV004",
+    "name": "Phạm Thị D",
+    "dob": "2004-03-07",
+    "gender": "Nữ",
+    "class": "KTPM2022",
+    "subjects": [
+      { "subjectName": "Cơ sở dữ liệu", "score": 4.7 },
+      { "subjectName": "Lập trình C", "score": 5.1 }
+    ]
+  },
+  {
+    "id": "SV005",
+    "name": "Đỗ Minh E",
+    "dob": "2003-07-21",
+    "gender": "Nam",
+    "class": "CNTT2021",
+    "subjects": [
+      { "subjectName": "Thị giác máy tính", "score": 8.9 },
+      { "subjectName": "Học máy", "score": 9.3 },
+      { "subjectName": "Toán cao cấp", "score": 8.4 }
+    ]
+  },
+  {
+    "id": "SV006",
+    "name": "Ngô Thanh F",
+    "dob": "2002-11-12",
+    "gender": "Nữ",
+    "class": "HTTT2020",
+    "subjects": [
+      { "subjectName": "Lập trình C", "score": 5.6 },
+      { "subjectName": "Toán cao cấp", "score": 4.9 }
+    ]
+  },
+  {
+    "id": "SV007",
+    "name": "Vũ Đức G",
+    "dob": "2003-04-05",
+    "gender": "Nam",
+    "class": "KTPM2021",
+    "subjects": [
+      { "subjectName": "Cơ sở dữ liệu", "score": 9.7 },
+      { "subjectName": "Thị giác máy tính", "score": 9.2 },
+      { "subjectName": "Học máy", "score": 8.9 },
+      { "subjectName": "Toán cao cấp", "score": 8.5 },
+      { "subjectName": "Lập trình C", "score": 9.0 }
+    ]
+  },
+  {
+    "id": "SV008",
+    "name": "Phan Ngọc H",
+    "dob": "2004-02-22",
+    "gender": "Nữ",
+    "class": "CNTT2022",
+    "subjects": [
+      { "subjectName": "Cơ sở dữ liệu", "score": 6.1 },
+      { "subjectName": "Thị giác máy tính", "score": 5.3 }
+    ]
+  },
+  {
+    "id": "SV009",
+    "name": "Hoàng Văn I",
+    "dob": "2002-10-09",
+    "gender": "Nam",
+    "class": "HTTT2020",
+    "subjects": [
+      { "subjectName": "Học máy", "score": 4.8 },
+      { "subjectName": "Toán cao cấp", "score": 5.0 }
+    ]
+  },
+  {
+    "id": "SV010",
+    "name": "Bùi Thị J",
+    "dob": "2003-05-28",
+    "gender": "Nữ",
+    "class": "KTPM2021",
+    "subjects": [
+      { "subjectName": "Cơ sở dữ liệu", "score": 7.8 },
+      { "subjectName": "Thị giác máy tính", "score": 8.1 },
+      { "subjectName": "Học máy", "score": 7.5 }
+    ]
+  }
+]
